@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Forced Far]]></title>
-  <link href="http://forcedfar.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Anonymity, | Forced Far]]></title>
+  <link href="http://forcedfar.github.io/blog/categories/anonymity/atom.xml" rel="self"/>
   <link href="http://forcedfar.github.io/"/>
   <updated>2013-12-28T02:15:37-05:00</updated>
   <id>http://forcedfar.github.io/</id>
@@ -28,10 +28,7 @@
 
 <p>Feel free to follow me on <a href="http://twitter.com/forcedfar">Twitter</a>. I can&rsquo;t follow you back because my account has been suspended. I don&rsquo;t know whether it is due to my creating an account through a Tor node or my yandex email address, but before I had the chance to follow a single soul or tweet a single character, I got a message across the top of my Twitter window:</p>
 
-<blockquote><p>Your account (@forcedfar) is currently suspended. For more information, please visit [Suspended Accounts](https://twitter.com/account/suspended_help).</p></blockquote>
-
-
-<p></p>
+<p><blockquote><p>Your account (@forcedfar) is currently suspended. For more information, please visit <a href="https://twitter.com/account/suspended_help">Suspended Accounts</a>.</p></blockquote></p>
 
 <p>That was fast. Although I <em>did</em> get to skip the page that <del>forces</del> strongly suggests you follow five people before moving on. So I got that going for me. Which is nice. I have submitted a support ticket which I hope will result in full access to use of Twitter. The ticket explained in perfect English how I am not a robot and have no intention of ever being one.</p>
 
