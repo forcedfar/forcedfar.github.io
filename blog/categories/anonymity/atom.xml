@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Anonymity, | Forced Far]]></title>
   <link href="http://forcedfar.github.io/blog/categories/anonymity/atom.xml" rel="self"/>
   <link href="http://forcedfar.github.io/"/>
-  <updated>2013-12-28T02:15:37-05:00</updated>
+  <updated>2013-12-28T02:17:43-05:00</updated>
   <id>http://forcedfar.github.io/</id>
   <author>
     <name><![CDATA[forcedfar]]></name>
@@ -20,11 +20,11 @@
     <id>http://forcedfar.github.io/blog/2013/12/28/an-anonymous-internet-identity</id>
     <content type="html"><![CDATA[<p>It turns out that setting up a fully anonymous online identity is more of a hassle than I thought. I expected I would be able to set up a Gmail account through <a href="http://torproject.org">Tor</a>, use that Gmail account to sign up for Twitter and Github, and be self-publishing in no time. Unfortunately, I ran into a few unforeseen problems.</p>
 
-<h1>Reputable email providers require phone numbers</h1>
+<h2>Reputable email providers require phone numbers</h2>
 
 <p>It turns out that Gmail, Yahoo! Mail and whatever Microsoft calls Hotmail these days all require phone verification to set up an account. After a bit of searching, I found that Russia-based Yandex was probably my best option. I don&rsquo;t love that. Because Yandex&rsquo;s mail service is often associated with scammers and spammers, a yandex.com email address is like a nice big red flag to anyone with whom I communicate. If you have a better suggestion for a trustworthy, free webmail provider that will let me sign up through Tor and won&rsquo;t require an email address, please send a message to my Github username at yandex dot com.</p>
 
-<h1>Twitter has suspended my account</h1>
+<h2>Twitter has suspended my account</h2>
 
 <p>Feel free to follow me on <a href="http://twitter.com/forcedfar">Twitter</a>. I can&rsquo;t follow you back because my account has been suspended. I don&rsquo;t know whether it is due to my creating an account through a Tor node or my yandex email address, but before I had the chance to follow a single soul or tweet a single character, I got a message across the top of my Twitter window:</p>
 
@@ -32,7 +32,7 @@
 
 <p>That was fast. Although I <em>did</em> get to skip the page that <del>forces</del> strongly suggests you follow five people before moving on. So I got that going for me. Which is nice. I have submitted a support ticket which I hope will result in full access to use of Twitter. The ticket explained in perfect English how I am not a robot and have no intention of ever being one.</p>
 
-<h1>Some things worked just fine</h1>
+<h2>Some things worked just fine</h2>
 
 <p>The main bright spot was that Github allowed me full use of their platform with no prejudice. I had to do a little Googling to make sure I could push to them through Tor, but Github was accepting of me despite my shady email and dubious IP address. I guess it makes sense that bad actors would be more interested in exploiting services like Twitter over services like Github. There&rsquo;s probably not a lot of money in maliciously contributing to open source projects.</p>
 ]]></content>
