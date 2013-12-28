@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tor | Forced Far]]></title>
   <link href="http://forcedfar.github.io/blog/categories/tor/atom.xml" rel="self"/>
   <link href="http://forcedfar.github.io/"/>
-  <updated>2013-12-28T02:17:43-05:00</updated>
+  <updated>2013-12-28T02:19:47-05:00</updated>
   <id>http://forcedfar.github.io/</id>
   <author>
     <name><![CDATA[forcedfar]]></name>
@@ -19,6 +19,9 @@
     <updated>2013-12-28T01:01:56-05:00</updated>
     <id>http://forcedfar.github.io/blog/2013/12/28/an-anonymous-internet-identity</id>
     <content type="html"><![CDATA[<p>It turns out that setting up a fully anonymous online identity is more of a hassle than I thought. I expected I would be able to set up a Gmail account through <a href="http://torproject.org">Tor</a>, use that Gmail account to sign up for Twitter and Github, and be self-publishing in no time. Unfortunately, I ran into a few unforeseen problems.</p>
+
+<!-- more -->
+
 
 <h2>Reputable email providers require phone numbers</h2>
 
